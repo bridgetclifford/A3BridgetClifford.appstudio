@@ -1,4 +1,4 @@
-/*
+
 let newCities = ""
 let cities = []
 i=0
@@ -14,6 +14,6 @@ while ( i < cities.length) {
   console.log(`${cities[i]}`)
   i++
 }
-*/
+
 
 
