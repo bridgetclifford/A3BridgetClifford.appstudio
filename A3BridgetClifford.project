@@ -70,7 +70,15 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
+<<<<<<< Updated upstream
       "firstform": "dogStore",
+=======
+<<<<<<< HEAD
+      "firstform": "cityWhile",
+=======
+      "firstform": "dogStore",
+>>>>>>> 615b4985684f9472556914c2aac4c192328d0025
+>>>>>>> Stashed changes
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
